@@ -1,6 +1,6 @@
 # Git Tutor
 
-[![Build Status](https://travis-ci.com/R1ZZU/git-tutor.svg?branch=master)](https://travis-ci.com/R1ZZU/git-tutor)
+[![Build Status](https://travis-ci.com/lesnitsky/git-tutor.svg?branch=master)](https://travis-ci.com/lesnitsky/git-tutor)
 
 Generate step-by-step markdown tutorials from your git history
 
